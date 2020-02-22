@@ -1,0 +1,7 @@
+C:\Users\Алексей\source\repos\StartQuest\StartQuest\bin\Debug\StartQuest.exe.config
+C:\Users\Алексей\source\repos\StartQuest\StartQuest\bin\Debug\StartQuest.exe
+C:\Users\Алексей\source\repos\StartQuest\StartQuest\bin\Debug\StartQuest.pdb
+C:\Users\Алексей\source\repos\StartQuest\StartQuest\obj\Debug\StartQuest.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\source\repos\StartQuest\StartQuest\obj\Debug\StartQuest.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\StartQuest\StartQuest\obj\Debug\StartQuest.exe
+C:\Users\Алексей\source\repos\StartQuest\StartQuest\obj\Debug\StartQuest.pdb
